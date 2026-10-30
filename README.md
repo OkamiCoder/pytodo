@@ -55,9 +55,9 @@
 
 ## 📖 About
 
-**Okami ToDo** is a lightweight desktop task manager written in **pure Python** — no third-party libraries, no virtual environments required, no `pip install` steps. It uses only the standard library (`tkinter`, `json`, `uuid`, `os`) and stores all data locally in a single `tasks.json` file, so it works fully offline and keeps your data private.
+**Okami ToDo** is a lightweight desktop task manager written in **pure Python** - no third-party libraries, no virtual environments required, no `pip install` steps. It uses only the standard library (`tkinter`, `json`, `uuid`, `os`) and stores all data locally in a single `tasks.json` file, so it works fully offline and keeps your data private.
 
-The app was built as a demonstration that a genuinely useful, feature-complete desktop application can be written in under 300 lines of clean Python — a nice fit for a personal portfolio or a teaching example.
+The app was built as a demonstration that a genuinely useful, feature-complete desktop application can be written in under 300 lines of clean Python - a nice fit for a personal portfolio or a teaching example.
 
 ---
 
