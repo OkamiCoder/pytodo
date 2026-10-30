@@ -3,7 +3,7 @@
 # ⠀ Okami PyToDo
 
 <p>
-  <img src="./assets/banner.png/" alt="project banner" width="70%">
+  <img src="./assets/banner.png/" alt="project banner" width="100%">
 </p>
 
 **A minimalist ToDo list with notes and checklists — built with pure Python.**
