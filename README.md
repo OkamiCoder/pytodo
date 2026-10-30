@@ -177,7 +177,7 @@ Ideas for future iterations (all still achievable with the standard library):
 - [ ] Drag-and-drop task reordering
 - [ ] Export task list to Markdown or plain text
 - [ ] Optional dark theme via Tkinter ttk styles
-- [ ] Migrate storage from JSON to SQLite (`sqlite3` — still stdlib!)
+- [ ] Migrate storage from JSON to SQLite (`sqlite3` - still stdlib!)
 
 ---
 
