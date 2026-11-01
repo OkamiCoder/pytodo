@@ -6,7 +6,7 @@
   <img src="./assets/banner.png/" alt="project banner" width="100%">
 </p>
 
-**A minimalist ToDo list with notes and checklists — built with pure Python.**
+**A minimalist ToDo list with notes and checklists - built with pure Python.**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![No Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)](https://github.com/OkamiCoder/)
